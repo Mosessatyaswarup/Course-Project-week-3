@@ -5,10 +5,6 @@ Getting and Cleaning Data
 
 Course Project
 
-Tobias Crabtree
-
-June 2014
-
 Objective to create a tidy data set with the average of each variable for each activity and each subject using the data collected from the accelerometers from the Samsung Galaxy S smartphone. Data was downloaded June 2014 from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
 
 The following is the step-by-step instructions for creating the tidy data set in R. Headers in bold text indicate the activity performed on the data. The plain text indicates the R code included in the repo file run_analysis.R that can be run as long as the Samsung data is in your working directory.
